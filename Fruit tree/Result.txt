@@ -1,0 +1,17 @@
+6
+Cherry Tree
+5
+85
+2.53
+Plum Tree
+4
+46
+2.15
+Apricot Tree
+11
+199
+2.93
+Pear Tree
+10
+199
+2.75
